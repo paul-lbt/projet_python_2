@@ -86,8 +86,8 @@ if __name__ == '__main__':
     #print(res)
 
    # - Stocker le resultat dans une liste et dump le resultat dans un fichier
-    with open('info_energie.pick', 'wb') as pickFile:
-        pickle.dump(res, pickFile)
+    # with open('info_energie.pick', 'wb') as pickFile:
+    #     pickle.dump(res, pickFile)
 
  
 
