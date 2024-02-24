@@ -1,6 +1,3 @@
-# Paul
-# Le Breton
-
 # -*- coding: utf-8 -*-
 import sys
 from urllib.request import Request, urlopen
